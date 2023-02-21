@@ -1,21 +1,7 @@
-Welcome to iLab247.  This is your place for two major things.
+Welcome to iLab247.  iLab247 provides guidance on two major things:
+1. Code repos for Research topics and 2. Tech stacks for Research & Development
 
-1. This is your place for guidance on tech stacks for Research and development.
-2. Your research code repositories
-
-1. List of Tech Stacks:  (How to install/run tech stacks)
-11. AIML/Datascience/Python  - Ubuntu / Anaconda / Jupyter Lab / VS Code (?)
-12. Java
-13. 
-14.
-15.
-
-2. Research topics / repositories:
-   a.
-   b.
-   c.
-   d.
-   e.
-   f.
-   
-  
+You have built in tech stacks for (How to run ?)
+1. AIML /Datascience/Python - Ubuntu / Anaconda / Jupyter Lab / VS Code
+2. Java /Open Sources/React/Node/Angular Development
+3. BlockChain /DLT/...
